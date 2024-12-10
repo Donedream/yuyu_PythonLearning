@@ -68,3 +68,5 @@ git commit -m "Add new folder and file"
 git push origin main // 这里需要根据默认分支来推送
 ```
 >*在这里就明了了为什么修改或新增文件上传到Github前都要保证本地文件没有缺失，因为删除文件需要专门的指令*
+
+- [ ] uncheck
