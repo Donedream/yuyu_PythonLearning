@@ -1,16 +1,16 @@
 # 关于git和github的基本使用方法介绍
-本篇文章是学习使用git和github工具的简单记录，初步掌握通过git在github上管理自己的文件数据的使用技巧。随着对相关知识的
-学习的逐步深入，本篇文章内容会逐渐丰富，不断完善
+本篇文章不涉及对原理和概念的理解，仅是学习使用git和github工具的简单记录，初步掌握通过git在github上管理自己的文件数据
+的使用技巧。随着对相关知识的学习的逐步深入，本篇文章内容会逐渐丰富，不断完善
 - [x] 四个基本指令的使用 `clone` `commit` `push` `pull`
 - [ ] 更复杂的指令及概念 `conflict` `branch` `merge` `GitIgnore`
 - [x] 其他工具的使用方法 `Github Desktop` `VScode Git`
 ## 一、创建仓库的两种方式：Github和本地
 
 ### （一）在Github上创建仓库并克隆到本地
-1. 占位符
+1. 登录主页在右上角点击 `+` 新建 `New repository`
 2. 在本地选定/新建一个文件夹用来存放要准备克隆的仓库
 3. 在这个文件夹下右键选择git bash打开终端
-4. 在终端中输入以下指令就可以在该文件夹内克隆目标仓库
+4. 在终端中使用 `git clone` 指令在该文件夹内克隆目标仓库
 ```
 git clone http://github.com/your_username/your_repository.git
 ```
