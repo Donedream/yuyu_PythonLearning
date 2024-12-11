@@ -28,7 +28,9 @@ git clone http://github.com/your_username/your_repository.git
 
 ### （二）创建文件和文件夹
 1. 进入克隆到本地的仓库内
-2. 在这个文件夹下右键选择git bash打开终端
+2. 在此仓库内右键选择git bash打开终端
+>或者在终端更改目录到目标仓库，使用指令 `cd path\my_repository`
+<br>确保所有指令操作都在目标仓库的路径下执行/这里暂时不涉及branch分支概念
 3. 在终端中输入以下指令分别创建文件夹和文件
 ```
 >mkdir new_folder // 创建文件夹
