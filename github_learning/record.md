@@ -3,7 +3,7 @@
 学习的逐步深入，本篇文章内容会逐渐丰富，不断完善
 - [x] 四个基本指令的使用 `clone` `commit` `push` `pull`
 - [ ] 更复杂的指令及概念 `conflict` `branch` `merge` `GitIgnore`
-- [ ] 其他工具的使用方法 `Github Desktop` `VScode Git`
+- [x] 其他工具的使用方法 `Github Desktop` `VScode Git`
 ## 一、如何给自己在Github上创建的仓库建立新的文件夹和文件
 
 ### （一）从Github上克隆仓库到本地
