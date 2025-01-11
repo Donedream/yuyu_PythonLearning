@@ -17,8 +17,14 @@ git clone http://github.com/your_username/your_repository.git
 >*后面的网址可以在目标仓库界面点击code一键复制*
 
 ### （二）在本地创建仓库并推送到Github
-1. 占位符
-2. 占位符
+1. 打开终端或命令行工具，导航到文件夹所在路径；或者直接在目标文件夹里右键打开`git bash`终端
+```
+cd /path to your folder
+```
+2. 初始化git仓库
+```
+git init
+```
 ---
 
 ## 二、如何给自己在Github上创建的仓库建立新的文件夹和文件
